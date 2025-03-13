@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+body {
+font-family: Times New Roman;
+background-color: #FFB2D0;
+color:black;
+margin: 0;
+padding: 0;
+}
+header { 
+background color: #MP988;
+color: white;
+text-align:center;
+padding: 20px;
+}
+</style>
+<title>Onnathecreator WHAT</title>
+</head>
+<body>
+<header>
+<h1>Welcome to my webpage! Did you come here to find out about me??!</h1>
+<p>I love cats, I have one of my own named Cheeto, American Dad is my favorite cartoon I watch it almost daily:)</p>
+</header>
+</body>
+</hmtl>
